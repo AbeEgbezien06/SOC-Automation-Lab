@@ -4,6 +4,9 @@ The goal here is to start from nothing to a fully integrated SOAR solution incor
 The sky is the limit when it comes to automation and it is up to your creativity.
 
 Use the link: https://m.do.co/c/e2ce5a05f701 <- To get a free $200 credit for the first 60 days with Digital Ocean 
+<img width="1920" height="934" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/4bed6dfe-3bb6-4fd7-8ce6-b38b88adb1fa" />
 
 Mimikatz
 https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
+
+sysmon
