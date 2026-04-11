@@ -10,3 +10,5 @@ Mimikatz
 https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
 
 sysmon
+Sysmon- https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+Sysmon config- https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml
